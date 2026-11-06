@@ -4,7 +4,7 @@ MSSV: DTC245200730
 Lớp: CNTT K23D
  
 ## 1. Cài đặt
-(ảnh chụp kết quả Bước 4)
+<img width="1482" height="762" alt="{4999394D-830A-4CD5-B095-D07B137D874D}" src="https://github.com/user-attachments/assets/d1085996-d790-49da-8f32-862031f39ef1" />
  
 ## 2. MepDemo (Bước 7)
 - Trả lời 3 câu hỏi; mỗi MEP 1 câu mô tả
